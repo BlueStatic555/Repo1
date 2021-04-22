@@ -1,4 +1,4 @@
 Features added to game on Update 2.0:
     -Raccoons now breakdance
     -Goblins now spawn correctly
-    -Gorillas are less aggressive towards raccoons
+    -Gorillas are less aggressive towards raccoons 
